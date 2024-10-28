@@ -1,4 +1,5 @@
-DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection
+**DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**
+
 Project Overview
 This project explores and experiments with DINO (DETR with Improved DeNoising Anchor Boxes). The goal is to evaluate pretrained DINO models and fine-tune them for a custom object detection task.
 
