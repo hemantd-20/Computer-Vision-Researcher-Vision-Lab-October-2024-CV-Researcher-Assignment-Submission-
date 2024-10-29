@@ -57,7 +57,7 @@ Command for fine-tuning:
 ### **Saved Checkpoints**  
 The fine-tuned model checkpoints can be found in the `Logs/` directory:  
 `Logs/dino/R50-MS4/checkpoint_best_regular.pth`
-
+(Right now I am unable to upload the checkpoints through Git LFS.)
 Training and fine-tuning logs are also available in the same directory.
 
 ## 🧪 **Testing the Fine-tuned Model**  
