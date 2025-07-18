@@ -64,10 +64,8 @@ Training and fine-tuning logs are also available in the same directory.
 A set of 45 images was collected for testing the model on diverse and interesting test cases. The test images can be found in the `DINO/Test_Images/` folder.
 
 ![Test Image 1](https://github.com/user-attachments/assets/6eb03e86-d54a-4249-9ede-0d129a5ba7f2)  
-![Test Image 2](https://github.com/user-attachments/assets/a958b89b-91fc-4e90-9f44-3b4a84c52090)  
 ![Test Image 3](https://github.com/user-attachments/assets/f15c3dd8-d7fb-4f33-9d05-4d08ba29c222)  
 ![Test Image 4](https://github.com/user-attachments/assets/5e6937d3-b224-4f35-93ac-ecdfa4af0bd7)  
-![Test Image 5](https://github.com/user-attachments/assets/6a734974-1466-446c-b7f1-2b72b204a310)
 
 ## 🔍 **Attention Maps**  
 To visualize the attention maps, we extracted cross-attention weights from the decoder layer. Cross-attention weights highlight detection-relevant features, while self-attention offers a more generalized view of the image.
